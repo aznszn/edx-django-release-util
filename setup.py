@@ -145,7 +145,6 @@ setup(
         'Programming Language :: Python :: 3.11',
         'Programming Language :: Python :: 3.12',
         'Framework :: Django',
-        'Framework :: Django :: 4.2',
         'Framework :: Django :: 5.2',
     ],
 )
